@@ -1,4 +1,4 @@
-from conftest import *
+from conftest import 
 
 
 def test_all_pets_are_present(go_to_my_pets):
