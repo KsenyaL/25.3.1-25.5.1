@@ -1,4 +1,4 @@
-from conftest import *
+from conftest import 
 
 
 def test_no_duplicate_pets(go_to_my_pets):
