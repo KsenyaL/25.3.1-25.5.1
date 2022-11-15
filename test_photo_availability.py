@@ -1,4 +1,4 @@
-from conftest import *
+from conftest import 
 
 
 def test_photo_availability(go_to_my_pets):
