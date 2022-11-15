@@ -1,4 +1,4 @@
-from conftest import *
+from conftest import 
 
 
 def test_there_is_a_name_age_and_gender(go_to_my_pets):
